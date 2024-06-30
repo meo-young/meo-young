@@ -1,4 +1,4 @@
-<div align = "center:>
+<div align="center">
   <span>
     <h3>🐥 Meoyoung 🐥</h3>
     <a href="https://github.com/meo-young">
