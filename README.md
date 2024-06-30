@@ -5,7 +5,7 @@
       <img src="https://img.shields.io/github/followers/meo-young?label=GitHub&style=social" alt="GitHub" />
     </a>
   </span>
-  <span style="float: right;">
+  <span>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eotn000" alt="solved.ac" />  
   </span>
 </div>
