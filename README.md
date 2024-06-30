@@ -4,8 +4,7 @@
   <a href="https://github.com/Meoyoung">
     <img src="https://img.shields.io/github/followers/meo-young?label=GitHub&style=social" alt="GitHub" />
   </a>
-  [![Solved.ac
-Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=eotn000)](https://solved.ac/eotn000)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=eotn000)](https://solved.ac/eotn000)
 </p>
 
 <br>
