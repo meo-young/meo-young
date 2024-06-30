@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/github/followers/meo-young?label=GitHub&style=social" alt="GitHub" />
   </a>
   [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=eotn000)](https://solved.ac/eotn000)
+Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=eotn000)](https://solved.ac/eotn000)
 </p>
 
 <br>
