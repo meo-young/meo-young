@@ -4,10 +4,8 @@
     <a href="https://github.com/meo-young">
       <img src="https://img.shields.io/github/followers/meo-young?label=GitHub&style=social" alt="GitHub" />
     </a>
-    <a href="https://solved.ac/profile/eotn000">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eotn000" alt="solved.ac" />
-    </a>
   </p>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eotn000" alt="solved.ac" />  
 </div>
 
 <br>
