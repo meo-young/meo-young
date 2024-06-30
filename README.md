@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">🐥 Meoyoung 🐥</h1>
-  <p align="center">
+  <p>
     <a href="https://github.com/meo-young">
       <img src="https://img.shields.io/github/followers/meo-young?label=GitHub&style=social" alt="GitHub" />
     </a>
