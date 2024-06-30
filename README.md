@@ -13,6 +13,10 @@
 <br>
 
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meo-young&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meo-young&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meo-young&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SeonDal&show_icons=true&theme=radical" alt="Meoyoung's GitHub Stats" />
+</p>
 </div>
