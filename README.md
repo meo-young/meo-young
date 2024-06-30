@@ -1,6 +1,6 @@
 <div>
   <span>
-    <h3>🐥 Meoyoung 🐥</h3>
+    <b>🐥 Meoyoung 🐥</b>
     <a href="https://github.com/meo-young">
       <img src="https://img.shields.io/github/followers/meo-young?label=GitHub&style=social" alt="GitHub" />
     </a>
